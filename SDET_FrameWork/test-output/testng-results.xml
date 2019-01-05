@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59" started-at="2019-01-05T08:26:57Z" finished-at="2019-01-05T08:26:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59" started-at="2019-01-05T08:26:57Z" finished-at="2019-01-05T08:26:57Z">
+      <class name="com.acttime.campaigntest.CampaignTest">
+        <test-method status="PASS" signature="createCamapginTest()[pri:0, instance:com.acttime.campaigntest.CampaignTest@5c7fa833]" name="createCamapginTest" duration-ms="18" started-at="2019-01-05T13:56:57Z" finished-at="2019-01-05T13:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCamapginTest -->
+        <test-method status="PASS" signature="modifyCamapginTest()[pri:0, instance:com.acttime.campaigntest.CampaignTest@5c7fa833]" name="modifyCamapginTest" duration-ms="12" started-at="2019-01-05T13:56:57Z" finished-at="2019-01-05T13:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyCamapginTest -->
+      </class> <!-- com.acttime.campaigntest.CampaignTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
